@@ -1,5 +1,4 @@
 
-from numpy import double
 from playwright.sync_api import sync_playwright
 import psycopg2
 from psycopg2.extras import execute_values
