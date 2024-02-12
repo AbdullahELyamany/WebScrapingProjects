@@ -1,9 +1,9 @@
 # WebScrapingProjects
 ## 10 Projects of Web Scraping Using Python  Libraries: [Playwright, Selenium, Requests]
-\n
-------- 1 -------\n
-Name: Google Maps Data Scraper/ Extractor using Python and Playwright (Free no external service) - Part 1\n
-Link: https://youtu.be/tp_B5tpJS3c?si=eJoSc58UeMvytGMG
+
+------- 1 -------                                                        
+Name: Google Maps Data Scraper/ Extractor using Python and Playwright (Free no external service) - Part 1                                        
+Link: https://youtu.be/tp_B5tpJS3c?si=eJoSc58UeMvytGMG                                                        
 ------- 2 -------
 Name: Google Maps Data Scraper/ Extractor Part 2 - Scrape Reviews + Scrolling Feature w/ Python
 Link: https://youtu.be/S49-lxlDqJk?si=tVqjDCCpoK0jFrrf
