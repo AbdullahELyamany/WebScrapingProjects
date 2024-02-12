@@ -1,0 +1,6 @@
+Commands:
+    python -m venv env    or      virtualenv env
+    .\env\Scripts\activate
+    pip install playwright pandas openpyxl
+    playwright install chromium 
+    pip freeze > requirements.txt
